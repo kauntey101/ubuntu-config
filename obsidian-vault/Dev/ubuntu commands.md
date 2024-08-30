@@ -1,0 +1,1 @@
+1. **update-alternatives** - used to list and configure alternative for a tool. This tool is used to list and configure all the current alternatives installed of a tool on the system. e.g. If i have java-8 and java-21 both installed on my system, then i can switch between both of them easily with the help of the command.
