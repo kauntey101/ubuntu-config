@@ -13,7 +13,7 @@ Removable Drives Menu - https://extensions.gnome.org/extension/7/removable-drive
 Blur My Shell - https://extensions.gnome.org/extension/3193/blur-my-shell/  
 Clipboard History - https://extensions.gnome.org/extension/4839/clipboard-history/  
 Vitals - https://extensions.gnome.org/extension/1460/vitals/  
-Status area horizatal placing - https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/?ref=itsfoss.com  
+Status area horizatal placing - https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/  
 Media Controls - https://extensions.gnome.org/extension/4470/media-controls/  
 Space Bar - https://extensions.gnome.org/extension/5090/space-bar/   
 User Avatar in Quick Settings - https://extensions.gnome.org/extension/5506/user-avatar-in-quick-settings/  
