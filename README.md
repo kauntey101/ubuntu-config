@@ -1,9 +1,11 @@
 # ubuntu-config
 I use ubuntu and i am not completely familiar with all the terminal tools. It's been a year now using it. 
 
-You would Ask ? 
 Why not windows ? 
 - Well, windows 11 and 10 both are bloated and they require too much space and ram. I find it easy to install applications on linux using a package manager. Many of the Linux tools are free and open source and I like the UI of GNOME than windows 10.
+
+Notice :  
+The scripts and files are not tested yet, so please take a look at the files before running. I am still not familiar with git so please suggest me recommendations or changes for my config files on my email - kaunteya101@gmail.com  
 
 Tools i use :     
 Obsidian - Taking Notes    
