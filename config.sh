@@ -11,3 +11,8 @@ sudo apt install apache2 -y
 sudo apt install cmatrix cowsay -y
 # Others
 sudo apt install tmux zsh openssh-server -y 
+
+# CUSTOM CONFIGURATION
+echo 'export CPATH=~/libs/c++/' >> ~/.zshrc # Setting the CPATH environment variable for using custom c++ libraries easliy
+echo "alias cat=\"batcat\"" >> ~/.zshrc # batcat instead of cat
+echo "alias clangd=\"clangd-18\"" >> ~/.zshrc # clangd-18 to clangd 
