@@ -15,12 +15,12 @@ Burpsuite - For debugging and exploiting web applications
 VSCode - for coding projects  
 Neovim - for practicing coding and competitive programming   
 
-Terminal Tools i use and some replacement tools i use rather the preinstalled ones : 
+Terminal Tools i use and some replacement tools i use rather the preinstalled ones :  
 batcat - instead of cat  
 tmux - for splitting terminals in the same window  
 neovim - for coding  
 
-GNOME Extensions i use : 
+GNOME Extensions i use :  
 GSConnect - https://extensions.gnome.org/extension/1319/gsconnect/  
 Bluetooth Quick Connect - https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/  
 Removable Drives Menu - https://extensions.gnome.org/extension/7/removable-drive-menu/  
