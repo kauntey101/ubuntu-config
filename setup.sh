@@ -13,7 +13,7 @@ sudo apt install apache2 -y
 # Terminal animation tools
 sudo apt install cmatrix cowsay -y
 # Others
-sudo apt install tmux zsh openssh-server fzf nnn -y 
+sudo apt install tmux zsh openssh-server fzf nnn goldendict -y 
 # Programming Languages 
 sudo apt install python3 
 
