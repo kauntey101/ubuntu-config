@@ -21,3 +21,4 @@ sudo apt install python3
 echo 'export CPATH=~/libs/c++/' >> ~/.zshrc # Setting the CPATH environment variable for using custom c++ libraries easliy
 echo "alias cat=\"batcat\"" >> ~/.zshrc # batcat instead of cat
 echo "alias clangd=\"clangd-18\"" >> ~/.zshrc # clangd-18 to clangd 
+echo "alias fzfp=\"fzf --preview 'cat {}'\"" >> ~/.zshrc # fzf preview command
