@@ -1,4 +1,6 @@
 # ubuntu-config
+- Status : In Developement. 
+
 I use ubuntu and i am not completely familiar with all the terminal tools. It's been a year now using it. 
 
 Why not windows ? 
